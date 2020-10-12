@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3c4ebf8.chunk.css",
+    "main.js": "/static/js/main.669ebf41.chunk.js",
+    "main.js.map": "/static/js/main.669ebf41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9e874143.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9e874143.js.map",
+    "static/css/2.d412899b.chunk.css": "/static/css/2.d412899b.chunk.css",
+    "static/js/2.63ef44b3.chunk.js": "/static/js/2.63ef44b3.chunk.js",
+    "static/js/2.63ef44b3.chunk.js.map": "/static/js/2.63ef44b3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.222c3ca7b852ec92fe87ec455f61bca9.js": "/precache-manifest.222c3ca7b852ec92fe87ec455f61bca9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d412899b.chunk.css.map": "/static/css/2.d412899b.chunk.css.map",
+    "static/css/main.d3c4ebf8.chunk.css.map": "/static/css/main.d3c4ebf8.chunk.css.map",
+    "static/js/2.63ef44b3.chunk.js.LICENSE.txt": "/static/js/2.63ef44b3.chunk.js.LICENSE.txt",
+    "static/media/greenround.png": "/static/media/greenround.23f3b7d9.png",
+    "static/media/mask.gif": "/static/media/mask.4af5eafa.gif",
+    "static/media/minzdrav.png": "/static/media/minzdrav.d0382437.png",
+    "static/media/music.mp4": "/static/media/music.0290403d.mp4",
+    "static/media/picture.svg": "/static/media/picture.c53b51cc.svg",
+    "static/media/rpn.png": "/static/media/rpn.e6a54ee9.png",
+    "static/media/vklogo.png": "/static/media/vklogo.42992f09.png",
+    "static/media/welcomeSound.mp3": "/static/media/welcomeSound.180b2086.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e874143.js",
+    "static/css/2.d412899b.chunk.css",
+    "static/js/2.63ef44b3.chunk.js",
+    "static/css/main.d3c4ebf8.chunk.css",
+    "static/js/main.669ebf41.chunk.js"
+  ]
+}
